@@ -2,13 +2,12 @@
 **<p align="center">+82-10-4832-0225</p>**
 **<p align="center">parkincue@gmail.com</p>**
 ***
-**TECHNICAL SKILLS** 
+## TECHNICAL SKILLS
 * Languages: C#, C++, Java, Perl
 * Frameworks: ProFrame, Qt
 * OS: Linux, Windows
 
-**EXPERIENCE**
-
+## EXPERIENCE
 Developer, **from home**, February 2019 - Now
 *  Wrote this
 
@@ -39,11 +38,12 @@ Developer, **TmaxSoft**, October 2003 - June 2009
 Engineer, **KT**, February 2002 - October 2003
 * Maintained GangNam Wi-Fi hotspots of YeongDong telephone office
 
-**EDUCATION**
+## EDUCATION
 * Korea Advanced Institute of Science and Technology, 1993-2000, BS, Electrical Engineering and Computer Science
 * Seoul Science High School, 1991-1993
 
-## SSD 라이선스
+### EOF
+###  SSD 라이선스
 Copyright (c) 2020 himusic
 
 소프트웨어를 개발한 프로그래머나 저작권자는 어떠한 경우에도 소프트웨어나 소프트웨어의 사용 등의 행위와 관련하여 일어나는 어떤 요구사항이나 손해 및 기타 책임에 대해 계약상, 불법행위 또는 기타 이유로 인한 책임을 지지 않는다.
