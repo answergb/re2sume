@@ -24,7 +24,7 @@ Developer, **Ocube**, August 2017- December 2017
 * Wrote tool for car audio engineer of LGE car navigation system using C++
 
 Developer, **Telecons**, August 2016 - June 2017
-* Developed prototype navigation of LGE using Qt and NavKit SDK (of TomTom)
+* Developed prototype navigation of LGE using Qt and NavKit SDK of TomTom
 * Went to Netherlands and France on business trip to debug NavKit and HERE's
 
 Developer, **Nara Controls**, March 2015 - May 2016
