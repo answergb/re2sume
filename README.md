@@ -1,16 +1,10 @@
-<div style="text-align:center"><b>Inkyu Park</b></div>
-<center>+82-10-4832-0225</center>
-<center><b>parkincue@gmail.com</b></center>
+Incue Park
++82-10-4832-0225
+parkincue@gmail.com
 ***
-**OBJECTIVE**
-Qt Software Engineer
-
-**SUMMARY**
-I expect to build and run SW using Qt Automotive Suite for my car in near future
-
 **TECHNICAL SKILLS** 
 * Languages: C#, C++, Java, Perl
-* Frameworks: Qt
+* Frameworks: ProFrame, Qt
 * OS: Linux, MS Windows
 
 **EXPERIENCE**
