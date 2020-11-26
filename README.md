@@ -42,9 +42,8 @@ Engineer, **KT**, February 2002 - October 2003
 * Maintained GangNam Wi-Fi hotspots of YeongDong telephone office
 
 **EDUCATION**
-* Korea Advanced Institute of Science and Technology, 1993-2000.
-- BS, Electrical Engineering and Computer Science.
-* Seoul Science High School, 1991-1993.
+* Korea Advanced Institute of Science and Technology, 1993-2000, BS, Electrical Engineering and Computer Science
+* Seoul Science High School, 1991-1993
 
 # SSD 라이선스
 
