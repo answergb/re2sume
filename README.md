@@ -5,7 +5,7 @@
 **TECHNICAL SKILLS** 
 * Languages: C#, C++, Java, Perl
 * Frameworks: ProFrame, Qt
-* OS: Linux, MS Windows
+* OS: Linux, Windows
 
 **EXPERIENCE**
 
