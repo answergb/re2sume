@@ -1,8 +1,6 @@
-**<p align="center">**Incue Park**</p>**
-
-**+82-10-4832-0225**
-
-**parkincue@gmail.com**
+**<p align="center">Incue Park</p>**
+**<p align="center">+82-10-4832-0225</p>**
+**<p align="center">parkincue@gmail.com</p>**
 ***
 **TECHNICAL SKILLS** 
 * Languages: C#, C++, Java, Perl
