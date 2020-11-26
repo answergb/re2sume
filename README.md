@@ -1,4 +1,4 @@
-**Incue Park**
+<p align="center">**Incue Park**</p>
 
 **+82-10-4832-0225**
 
