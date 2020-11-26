@@ -25,7 +25,7 @@ Developer, **Ocube**, August 2017- December 2017
 
 Developer, **Telecons**, August 2016 - June 2017
 * Developed prototype navigation of LGE using Qt and NavKit SDK of TomTom
-* Went to Netherlands and France on business trip to debug NavKit and HERE's
+* Went to Netherlands and France on business trip to test navigation
 
 Developer, **Nara Controls**, March 2015 - May 2016
 * Developed IDE for PLC programmer using C#, Infragistics, and Syncfusion
