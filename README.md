@@ -28,7 +28,7 @@ Developer, **Telecons**, August 2016 - June 2017
 * Went to Netherlands and France on business trip to test navigation
 
 Developer, **Nara Controls**, March 2015 - May 2016
-* Developed IDE for PLC programmer using C#, Infragistics, and Syncfusion
+* Developed IDE for PLC programmer using C#, Infragistics', and Syncfusion's
 
 Developer, **S-Core**, June 2009 - July 2013
 * Leaded 3 to develop testing tools in Tizen IDE using C++ and Java
