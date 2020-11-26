@@ -1,4 +1,4 @@
-<center><b>Inkyu Park</b></center>
+<div style="text-align:center"><b>Inkyu Park</b></div>
 <center>+82-10-4832-0225</center>
 <center><b>parkincue@gmail.com</b></center>
 ***
