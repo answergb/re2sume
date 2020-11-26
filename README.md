@@ -1,4 +1,4 @@
-# info
+# parkincue@gmail.com
 
 # SSD 라이선스
 
