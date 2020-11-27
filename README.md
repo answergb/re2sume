@@ -4,7 +4,7 @@
 ***
 ## TECHNICAL SKILLS
 * Languages: C#, C++, Java, Perl
-* Packages: Infragistics, jPOS, NavKit SDK, ProFrame, Qt, Syncfusion
+* Packages: jPOS, NavKit SDK, ProFrame, Qt, Ultimate UI for Windows Forms (Infragistics), WinForms (Syncfusion)
 
 ## EXPERIENCE
 Developer, **from home**, February 2019 - Now
@@ -22,18 +22,15 @@ Developer, **Ocube**, August 2017- December 2017
 
 Developer, **Telecons**, August 2016 - June 2017
 * Developed prototype navigation of LGE using Qt and NavKit SDK of TomTom
-* Went to Netherlands and France on business trip to test navigation
 
 Developer, **Nara Controls**, March 2015 - May 2016
 * Developed IDE for PLC programmer using C#, Infragistics', and Syncfusion's
 
-Developer, **S-Core**, June 2009 - July 2013
-* Leaded 3 to develop testing tools in Tizen IDE using C++ and Java
-* Developed Tizen UIFW of Samsung Electronics using C++
-
-Developer, **TmaxSoft**, October 2003 - June 2009
+Developer, **TmaxSoft**, October 2003 - July 2013
 * Developed ProFrame C
 * Wrote 4 next generation projects' code using ProFrame C and ProFrame Java
+* Leaded 3 to develop testing tools in Tizen IDE using C++ and Java
+* Developed Tizen UIFW of Samsung Electronics using C++
 
 Engineer, **KT**, February 2002 - October 2003
 * Maintained GangNam Wi-Fi hotspots of YeongDong telephone office
