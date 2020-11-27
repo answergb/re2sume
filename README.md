@@ -15,7 +15,7 @@ Developer, **IN Soft**, November 2018 - January 2019
 * Wrote ML/DL process monitoring system using Kubernetes and AXBoot
 
 Developer, **SPC Networks**, February 2018 - August 2018
-* Developed test stub issuer for MUX system of NongHyeop Card's payment solution using jPOS
+* Developed test stub issuer for MUX system of NongHyeop Card's payment system using jPOS
 
 Developer, **Ocube**, August 2017- December 2017
 * Wrote tool for car audio engineer of LGE car navigation system using C++
