@@ -33,7 +33,7 @@ Developer, **TmaxSoft**, October 2003 - July 2013
 * Developed Tizen UIFW of Samsung Electronics using C++
 
 Engineer, **KT**, February 2002 - October 2003
-* Maintained GangNam Wi-Fi hotspots of YeongDong telephone office
+* Maintained GangNam public Wi-Fi of YeongDong telephone office
 
 ## EDUCATION
 * KAIST, Electrical Engineering, BS, 1993-2000
