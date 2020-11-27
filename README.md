@@ -4,7 +4,7 @@
 ***
 ## TECHNICAL SKILLS
 * Languages: C#, C++, Java, Perl
-* Packages: jPOS, NavKit SDK, ProFrame, Qt, Ultimate UI for Windows Forms (Infragistics), WinForms (Syncfusion)
+* Packages: jPOS, NavKit SDK (TomTom), ProFrame, Qt, Ultimate UI for Windows Forms (Infragistics), WinForms (Syncfusion)
 
 ## EXPERIENCE
 Developer, **from home**, February 2019 - Now
@@ -21,7 +21,7 @@ Developer, **Ocube**, August 2017- December 2017
 * Wrote tool for car audio engineer of LGE car navigation system using C++
 
 Developer, **Telecons**, August 2016 - June 2017
-* Developed prototype navigation of LGE using Qt and NavKit SDK of TomTom
+* Developed prototype navigation of LGE using Qt and NavKit SDK 
 
 Developer, **Nara Controls**, March 2015 - May 2016
 * Developed IDE for PLC programmer using C#, Infragistics', and Syncfusion's
