@@ -5,7 +5,6 @@
 ## TECHNICAL SKILLS
 * Languages: C#, C++, Java, Perl
 * Frameworks: ProFrame, Qt
-* OS: Linux, Windows
 
 ## EXPERIENCE
 Developer, **from home**, February 2019 - Now
