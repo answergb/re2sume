@@ -9,7 +9,7 @@
 ## EXPERIENCE
 Developer, **from home**, February 2019 - Now
 * Wrote excel document to know optimal point of family taxes using VBA
-* Exploring sources
+* Exploring sources and started to be curious about the link of Bluto and Bluetooth for long long home stay 
 
 Developer, **IN Soft**, November 2018 - January 2019
 * Wrote ML/DL process monitoring system using Kubernetes and AXBoot
