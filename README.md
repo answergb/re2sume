@@ -7,7 +7,7 @@
 * Packages: jPOS, NavKit SDK (TomTom), Qt, Ultimate UI for Windows Forms (Infragistics), WinForms (Syncfusion)
 
 ## EXPERIENCE
-Developer, **from home**, February 2019 - Now
+Developer, **from home**, January 2019 - Now
 * Wrote excel document to know optimal point of family taxes using VBA
 * Continuously exploring sources and started to be curious about the link of Bluto and Bluetooth for long home stay 
 
