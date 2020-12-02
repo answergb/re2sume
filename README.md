@@ -7,7 +7,7 @@
 * Packages: jPOS, NavKit SDK (TomTom), Qt, Ultimate UI for Windows Forms (Infragistics), WinForms (Syncfusion)
 
 ## EXPERIENCE
-Developer, **from home**, January 2019 - Now
+Developer, **from home**, May 2020 - Now
 * Wrote excel document to know optimal point of family taxes using VBA
 
 Developer, **IN Soft**, November 2018 - January 2019
