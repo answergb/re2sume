@@ -8,7 +8,7 @@
 
 ## EXPERIENCE
 Developer, **from home**, May 2020 - Now
-* Wrote excel document to know optimal point of family taxes using VBA
+* Wrote excel document to know optimal point of taxes using VBA
 
 Developer, **IN Soft**, November 2018 - January 2019
 * Wrote ML/DL process monitoring system using Kubernetes and AXBoot
