@@ -29,7 +29,7 @@ Developer, **TmaxSoft**, October 2003 - July 2013
 * Developed ProFrame C
 * Wrote 4 next generation projects' code using ProFrame C and ProFrame Java
   * Hanmi Bank, Shinhan Bank, Daewoo Shipbuilding & Marine Engineering, and KICC 
-* Leaded 3 to develop testing tools in Tizen IDE using C++ and Java
+* Leaded 3 to develop testing tools in Tizen IDE 
 * Developed Tizen UIFW of Samsung Electronics using C++
 
 Engineer, **KT**, February 2002 - October 2003
