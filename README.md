@@ -7,9 +7,6 @@
 * Packages: jPOS, NavKit SDK (TomTom), Qt, Ultimate UI for Windows Forms (Infragistics), WinForms (Syncfusion)
 
 ## EXPERIENCE
-Developer, **from home**, May 2020 - Present
-* Wrote excel document to know optimal point of taxes using VBA
-
 Developer, **IN Soft**, November 2018 - January 2019
 * Wrote ML/DL process monitoring system using Kubernetes and AXBoot
 
