@@ -4,7 +4,7 @@
 ***
 ## TECHNICAL SKILLS
 * Languages: C#, C++, Java, Perl
-* Packages: jPOS, NavKit SDK (TomTom), Qt, Ultimate UI for Windows Forms (Infragistics), WinForms (Syncfusion)
+* Packages: jPOS, NavKit SDK(TomTom), Qt, Ultimate UI for Windows Forms(Infragistics), WinForms(Syncfusion)
 
 ## EXPERIENCE
 Developer, **IN Soft**, November 2018 - January 2019
