@@ -4,12 +4,9 @@
 ***
 ## TECHNICAL SKILLS
 * Languages: C#, C++, Java, Perl
-* Packages: NavKit SDK(TomTom), Qt, Ultimate UI for Windows Forms(Infragistics), WinForms(Syncfusion), jPOS
+* Packages: NavKit SDK(TomTom), Qt, jPOS, WinForms(Syncfusion), Ultimate UI for Windows Forms(Infragistics)
 
 ## EXPERIENCE
-June 2018 -
-* Tool of Windows
-
 Developer, **SPC Networks**, February 2018 - August 2018
 * Developed test stub issuer for NongHyeop Card's payment MUX system using jPOS
 
