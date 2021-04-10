@@ -17,10 +17,9 @@ Developer, **Telecons**, August 2016 - June 2017
 * Developed prototype navigation of LGE using Qt and NavKit SDK 
 
 Developer, **Nara Controls**, March 2015 - May 2016
-* Developed IDE for PLC programmer using C#, Infragistics', and Syncfusion's
+* Developed IDE for PLC programmer using C#, Infragistics', and Syncfusion's 
 
 Developer, **TmaxSoft**, October 2003 - July 2013
-* Developed ProFrame C
 * Wrote 4 next generation projects' codes using ProFrame C and ProFrame Java
   * Hanmi Bank, Shinhan Bank, Daewoo Shipbuilding & Marine Engineering, and KICC 
 * Leaded 3 to develop testing tools in Tizen IDE 
