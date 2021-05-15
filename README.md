@@ -4,7 +4,7 @@
 ***
 ## TECHNICAL SKILLS
 * Languages: C++, C#, Java, Perl
-* Packages: NavKit SDK(TomTom), Qt, jPOS, WinForms(Syncfusion), Ultimate UI for Windows Forms(Infragistics)
+* Packages: NavKit SDK(TomTom), Qt, jPOS
 
 ## EXPERIENCE
 Developer, **SPC Networks**, February 2018 - August 2018
