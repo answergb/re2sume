@@ -4,7 +4,7 @@
 ***
 ## TECHNICAL SKILLS
 * Languages: C++, C#
-* Packages: NavKit SDK(TomTom), Qt, jPOS
+* Frameworks: NavKit SDK(TomTom), Qt, jPOS
 
 ## EXPERIENCE
 Developer, **SPC Networks**, February 2018 - August 2018
