@@ -3,7 +3,7 @@
 **<p align="center">parkincue@gmail.com</p>**
 ***
 ## TECHNICAL SKILLS
-* Languages: C++, C#, Java, Perl
+* Languages: C++, C#
 * Packages: NavKit SDK(TomTom), Qt, jPOS
 
 ## EXPERIENCE
