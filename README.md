@@ -7,7 +7,7 @@
 * Frameworks: NavKit SDK(TomTom), Qt, jPOS
 
 ## EXPERIENCE
-Developer, **Wish Information Technology**, June 2021 
+Developer, **Wish Information Technology**, June 2021 -
 * Developed batch programs of Kookmin Bank Corporate Banking
 * Doing with Windows and Raspberry Pi 400
 
