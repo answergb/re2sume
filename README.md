@@ -1,14 +1,15 @@
 **<p align="center">Inkyu Park** &nbsp; </p>
 **<p align="center">+82-10-6574-2076</p>**
-**<p align="center">parkincue@gmail.com</p>**
+**<p align="center">park.incue@gmail.com</p>**
 ***
 ## TECHNICAL SKILLS
-* Languages: C++, C#
+* Languages: C#, C++
 * Frameworks: NavKit SDK(TomTom), Qt, jPOS
 
 ## EXPERIENCE
 Developer, Wish Information Technology, June 2021 
-* Developing batch programs of NOW KB Kookmin Bank Corporate Banking
+* Developed batch programs of NOW KB Kookmin Bank Corporate Banking
+* Doing with Windows and Raspberry Pi 400
 
 Developer, **SPC Networks**, February 2018 - August 2018
 * Developed test stub issuer for NongHyeop Card's payment MUX system using jPOS
