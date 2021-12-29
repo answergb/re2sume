@@ -3,13 +3,13 @@
 **<p align="center">park.incue@gmail.com</p>**
 ***
 ## TECHNICAL SKILLS
-* Languages: C#, C++
+* Languages: C++, C#, Java
 * Frameworks: NavKit SDK(TomTom), Qt, jPOS
 
 ## EXPERIENCE
 Developer, **Wish Information Technology**, June 2021 -
-* Developed batch programs of Kookmin Bank Corporate Banking
-* Doing with Windows and Raspberry Pi 400
+* Wrote KB Kookmin Bank's codes using Java
+* Delevoping my taskbar in Windows using C#
 
 Developer, **SPC Networks**, February 2018 - August 2018
 * Developed test stub issuer for NongHyeop Card's payment MUX system using jPOS
