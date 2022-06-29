@@ -1,6 +1,6 @@
 **<p align="center">Inkyu Park** &nbsp; </p>
 **<p align="center">+82-10-6574-2076</p>**
-**<p align="center">park.incue@gmail.com</p>**
+**<p align="center">parkin.cue@gmail.com</p>**
 ***
 ## TECHNICAL SKILLS
 * Languages: C++, C#, Java
