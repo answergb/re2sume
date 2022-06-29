@@ -7,8 +7,8 @@
 * Frameworks: NavKit SDK(TomTom), Qt, jPOS
 
 ## EXPERIENCE
-[불독관법](http://muhanzen.org/home/index.html), March 2022 -
-* 인생 청소중
+백수, [대승불자](http://muhanzen.org/home/index.html), March 2022 -
+* [불독관법 선발](http://muhanzen.org/home/bbs/board.php?bo_table=gallery)
 
 Developer, **Wish Information Technology**, June 2021 - March 2022
 * Wrote KB Kookmin Bank's codes using Java
