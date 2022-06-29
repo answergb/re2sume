@@ -7,9 +7,11 @@
 * Frameworks: NavKit SDK(TomTom), Qt, jPOS
 
 ## EXPERIENCE
-Developer, **Wish Information Technology**, June 2021 -
+불독관법, March 2022 -
+* [인생 청소중](http://muhanzen.org/home/index.html)
+
+Developer, **Wish Information Technology**, June 2021 - March 2022
 * Wrote KB Kookmin Bank's codes using Java
-* Delevoping my taskbar in Windows using C#
 
 Developer, **SPC Networks**, February 2018 - August 2018
 * Developed test stub issuer for NongHyeop Card's payment MUX system using jPOS
