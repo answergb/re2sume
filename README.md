@@ -17,7 +17,7 @@ Developer, **SPC Networks**, February 2018 - August 2018
 * Developed test stub issuer for NongHyeop Card's payment MUX system using jPOS
 
 Developer, **Ocube**, August 2017- December 2017
-* Wrote tool for car audio engineer of LGE car navigation system using C++
+* Maintained tools for car audio engineer of LGE car navigation system using MATLAB and C++  
 
 Developer, **Telecons**, August 2016 - June 2017
 * Developed prototype navigation of LGE using Qt and NavKit SDK 
