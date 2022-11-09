@@ -29,9 +29,14 @@ Developer, **TmaxSoft**, October 2003 - July 2013
 Engineer, **KT**, February 2002 - October 2003
 * Maintained GangNam public Wi-Fi of YeongDong telephone office in role of 1 out of many
 
-## Living, dying, and praying for
-* 음식과 기타 생활 개선(주로 가성비 위주의)
-  * 냉장고 : 음식을 적절히 채운 용기의 투입 날짜와 권장사용기간 인지 기능 
+## Interested
+* In 정보관리기술
+* In 음식과 기타 생활 in my opinion
+  * In the air of night and day
+    * 곰팡이 : 식물과 동물이 아니어서 통증이 없다고 가정하고 퇴치를 우선시
+    * 라돈 : 공기보다 무거우므로 환기를 잘 하면 된다고는 하나 장시간 단순 (창)문 개방에는 꿈쩍 않는 등 골치
+    * 그 외 먼지와 {특히 여름철의} 강수량 <div> 태그를 바탕화면 유지 및 일정 수준 초과시 내게라도 알리고 싶음
+  * 냉장고 : 음식을 채운 용기를 냉장고에 새로 넣은 시작일자와 권장사용기간{최종일자}을 쉽게 알 수 있게 하는 데 기여
   * 컴퓨터 입력
     * 비밀번호를 컴퓨터 대신 휴대용 기기에 휴대 및 블루투스 연결로 입력
     * 휴대용 기기가 커스텀 배열의 키보드 기능을 대신할 수 있고
