@@ -15,7 +15,7 @@ Developer, **Ocube**, August 2017- December 2017
 * Maintained tools for car audio engineer of LGE car navigation system using MATLAB and C++
 
 Developer, **Telecons**, August 2016 - June 2017
-* Developed prototype navigation of LGE using Qt and NavKit SDK in role of 1 out of 5~6
+* Developed prototype navigation of LGE using Qt and NavKit SDK in role of 1 out of more than 7
 
 Developer, **Nara Controls**, March 2015 - May 2016
 * Developed IDE for PLC programmer using C#, Infragistics', and Syncfusion's in role of 1 out of 3
