@@ -21,13 +21,13 @@ Developer, **Nara Controls**, March 2015 - May 2016
 * Developed IDE for PLC programmer using C#, Infragistics', and Syncfusion's in role of 1 out of 3
 
 Developer, **TmaxSoft**, October 2003 - July 2013
-* Wrote 4 next generation projects' codes using ProFrame C and ProFrame Java
+* Wrote 4 projects' codes using ProFrame C and ProFrame Java in role of 1 out of 10~
   * Hanmi Bank, Shinhan Bank, Daewoo Shipbuilding & Marine Engineering, and KICC 
-* Developed testing tools in Tizen IDE in role of 1 out of many
-* Developed Tizen UIFW of Samsung Electronics using C++ in role of 1 out of many more
+* Led developing testing tools in Tizen IDE
+* Developed Tizen UIFW of Samsung Electronics using C++ in role of 1 out of 100~
 
 Engineer, **KT**, February 2002 - October 2003
-* Maintained GangNam public Wi-Fi of YeongDong telephone office in role of 1 out of many
+* Maintained GangNam public Wi-Fi of YeongDong telephone office in role of 1 out of 20~
 
 ## Interested
 * In 정보관리기술
