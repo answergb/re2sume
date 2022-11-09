@@ -29,8 +29,5 @@ Developer, **TmaxSoft**, October 2003 - July 2013
 Engineer, **KT**, February 2002 - October 2003
 * Maintained GangNam public Wi-Fi of YeongDong telephone office in role of 1 out of many
 
-## Words to companies
-* Apple
-  * 내 아이폰 에잇 플러스에서 한글 입력시, 첫 글자의 너무 잦은 초성 풀림 problem solving
-* Microsoft
-  * Be generous
+## 1 of Idea list
+* 공동현관 출입시 다른 입력없이 비밀번호 입력하게 개선
