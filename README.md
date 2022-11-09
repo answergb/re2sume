@@ -29,5 +29,10 @@ Developer, **TmaxSoft**, October 2003 - July 2013
 Engineer, **KT**, February 2002 - October 2003
 * Maintained GangNam public Wi-Fi of YeongDong telephone office in role of 1 out of many
 
-## 1 of Idea list
-* 공동현관 출입시 다른 입력없이 비밀번호 입력하게 개선
+## 1st of Idea list
+* 컴퓨터 비밀번호의 입력 개선
+** 컴퓨터 대신 휴대용 기기에 휴대
+
+## 2nd of Idea List
+* 공동 현관 등의 비밀번호 입력 개선
+** 장기 출타 저장 및 그 부가 기능 : 출타 기간 이내 돌발(?) 출입시 누구인지 알림 등
