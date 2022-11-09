@@ -2,7 +2,7 @@
 **<p align="center">+82-10-6574-2076</p>**
 **<p align="center">parkinc.ue@gmail.com</p>**
 ***
-## I like [books!](https://books.google.com/books?uid=107971606583512441467&as_coll=0&source=gbs_lp_bookshelf_list)
+## I like [books](https://books.google.com/books?uid=107971606583512441467&as_coll=0&source=gbs_lp_bookshelf_list)
 
 ## TECHNICAL SKILLS
 * Languages:  C#, C++, Java
