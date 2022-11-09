@@ -32,7 +32,5 @@ Engineer, **KT**, February 2002 - October 2003
 ## Words to companies
 * Apple
   * 내 아이폰 에잇 플러스에서 한글 입력시, 첫 글자의 너무 잦은 초성 풀림 problem solving
-* Google
-  * Don't be dev~~i~~el
 * Microsoft
   * Be generous
