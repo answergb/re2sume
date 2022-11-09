@@ -29,7 +29,7 @@ Developer, **TmaxSoft**, October 2003 - July 2013
 Engineer, **KT**, February 2002 - October 2003
 * Maintained GangNam public Wi-Fi of YeongDong telephone office in role of 1 out of many
 
-## 1st(?) Idea list
+## Secondary idea list
 * 냉장고 : 음식을 적절히 채운 용기의 투입 날짜와 권장사용기간 인지 기능 개선
 * 컴퓨터 비밀번호의 입력 개선
   * 컴퓨터 대신 휴대용 기기에 휴대 및 블루투스 연결로 입력 등
