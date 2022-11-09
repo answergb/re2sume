@@ -35,4 +35,4 @@ Engineer, **KT**, February 2002 - October 2003
 * Google
   * Don't be dev~~i~~el
 * Microsoft
-  * Be generous 
+  * Be generous
