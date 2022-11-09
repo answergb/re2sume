@@ -1,18 +1,14 @@
 **<p align="center">Inkyu Park** &nbsp; </p>
 **<p align="center">+82-10-6574-2076</p>**
-**<p align="center">parkin.cue@gmail.com</p>**
+**<p align="center">parkinc.ue@gmail.com</p>**
 ***
+## I love [books!](https://books.google.com/books?uid=107971606583512441467)
+
 ## TECHNICAL SKILLS
 * Languages:  C#, C++, Java
-* Frameworks: NavKit SDK(TomTom), Qt, jPOS
+* Frameworks: Qt, jPOS
 
 ## EXPERIENCE
-Reader, March 2022 -
-* Analyzing inputs, stacked enough
-
-Developer, **Wish Information Technology**, June 2021 - March 2022
-* Wrote KB Kookmin Bank's codes using Java
-
 Developer, **SPC Networks**, February 2018 - August 2018
 * Developed test stub issuer for NongHyeop Card's payment MUX system using jPOS
 
@@ -33,7 +29,3 @@ Developer, **TmaxSoft**, October 2003 - July 2013
 
 Engineer, **KT**, February 2002 - October 2003
 * Maintained GangNam public Wi-Fi of YeongDong telephone office
-
-## EDUCATION
-* KAIST, Electrical Engineering, BS, 1993-2000
-* Seoul Science High School, 1991-1993
