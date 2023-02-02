@@ -4,8 +4,8 @@
 ***
 
 ## TECHNICAL SKILLS
-* Languages:  C#, C++, Java
-* Frameworks: Qt, jPOS
+* Languages:  C, C#, Java
+* Frameworks: Qt
 
 ## EXPERIENCE
 Developer, **SPC Networks**, February 2018 - August 2018
