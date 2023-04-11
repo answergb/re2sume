@@ -18,7 +18,7 @@ Developer, **Telecons**, August 2016 - June 2017
 * Developed prototype navigation of LGE using Qt and NavKit SDK in role of 1 out of the number over 7
 
 Developer, **Nara Controls**, March 2015 - May 2016
-* Developed IDE for PLC programmer using C#, Infragistics', and Syncfusion's in role of 1 out of 3
+* Developed IDE for PLC programmer using C#, Infragistics', and Syncfusion's 
 
 Developer, **TmaxSoft**, October 2003 - July 2013
 * Wrote 4 projects' codes using ProFrame C and ProFrame Java in role of 1 out of 10~
