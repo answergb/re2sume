@@ -9,13 +9,13 @@
 
 ## EXPERIENCE
 Developer, **SPC Networks**, February 2018 - August 2018
-* Developed test stub issuer for NongHyeop Card's payment MUX system using jPOS
+* Developed test stub issuer for NongHyeop Card's payment MUX system using jPOS in role of 1 out of 10~
 
 Developer, **Ocube**, August 2017- December 2017
-* Maintained tools for car audio engineer of LGE car navigation system using MATLAB and C++
+* Maintained tools for car audio engineer of LGE car navigation system using MATLAB and C++ in role of 1 out of 10~
 
 Developer, **Telecons**, August 2016 - June 2017
-* Developed prototype navigation of LGE using Qt and NavKit SDK in role of 1 out of the number over 7
+* Developed prototype navigation of LGE using Qt and NavKit SDK 
 
 Developer, **Nara Controls**, March 2015 - May 2016
 * Developed IDE for PLC programmer using C#, Infragistics', and Syncfusion's 
