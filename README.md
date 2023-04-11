@@ -4,7 +4,7 @@
 ***
 
 ## TECHNICAL SKILLS
-* Languages:  C#, Perl
+* Languages:  C++, C#
 * Frameworks: Qt
 
 ## EXPERIENCE
