@@ -1,5 +1,4 @@
 **<p align="center">Ingyoo Park** &nbsp; </p>
-**<p align="center">+82-10-6574-2076</p>**
 **<p align="center">incue.park@gmail.com</p>**
 ***
 
