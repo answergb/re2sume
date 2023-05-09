@@ -30,3 +30,5 @@ Developer, **TmaxSoft**, October 2003 - July 2013
 
 Engineer, **KT**, February 2002 - October 2003
 * Maintained GangNam public Wi-Fi of YeongDong telephone office in role of 1 out of 20~
+
+
