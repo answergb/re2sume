@@ -3,7 +3,7 @@
 ***
 
 ## TECHNICAL SKILLS
-* Languages:   C#
+* Languages: &nbsp; C#
 * Frameworks: Qt
 
 ## EXPERIENCE
