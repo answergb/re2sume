@@ -1,5 +1,5 @@
 **<p align="center">박 인규** &nbsp; </p>
-**<p align="center">park.incue@gmail.com</p>**
+**<p align="center">[park.incue@gmail.com](park.incue @>===== gmail.com)</p>**
 ***
 
 ## TECHNICAL SKILLS
