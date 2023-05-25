@@ -1,5 +1,5 @@
-**<p align="center">Ingyoo Park** &nbsp; </p>
-**<p align="center">incue.park@gmail.com</p>**
+**<p align="center">빔 인규** &nbsp; </p>
+**<p align="center">park.incue@gmail.com</p>**
 ***
 
 ## TECHNICAL SKILLS
@@ -29,7 +29,7 @@ Developer, **TmaxSoft**, October 2003 - July 2013
 * Developed Tizen UIFW of ㅇㅇ Electronics using C++ in role of 1 out of 100~
 
 Engineer, **KT**, February 2002 - October 2003
-* Maintained GangNam public Wi-Fi of YeongDong telephone office in role of 1 out of 20~
+* Maintained GangNam public Wi-Fi of YeongDong telephone office in role of 1 out of 10~
 
 <p> &nbsp; </p>
 <p> &nbsp; </p>
