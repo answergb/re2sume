@@ -20,7 +20,7 @@ Developer, **Nara Controls**, March 2015 - May 2016
 Developer, **TmaxSoft**, October 2003 - July 2013
 * Wrote 4 projects' codes using ProFrame C and ProFrame Java in role of 1 out of 10~
   * Hanmi Bank, Shinhan Bank, Daewoo Shipbuilding & Marine Engineering, and KICC 
-* Led developing testing tools in Tizen IDE
+* Co-worked for developing testing tools in Tizen IDE
 * Developed Tizen UIFW of ㅇㅇ Electronics using C++ in role of 1 out of 100~
 
 Engineer, **KT**, February 2002 - October 2003
