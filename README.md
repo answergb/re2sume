@@ -7,9 +7,11 @@
 * Frameworks: Qt
 
 ## EXPERIENCE
-<p> &nbsp; </p>
-<p> &nbsp; </p>
-<p> &nbsp; </p>
+
+
+
+
+
 
 Developer, **Telecons**, August 2016 - June 2017
 * Developed prototype navigation of ㅇㅈE using Qt and NavKit SDK 
