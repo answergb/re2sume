@@ -2,8 +2,8 @@
 **<p align="center">incue.park@gmail.com</p>**
 
 ## TECHNICAL SKILLS
-* Languages: &nbsp; C#
-* Frameworks: Qt
+* Languages: &nbsp; C# 等
+* Frameworks: Qt 等
 
 ## EXPERIENCE
 CEO, **법화경(法 華)**, October 2023 -
