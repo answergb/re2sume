@@ -6,7 +6,7 @@
 * Frameworks: Qt 等
 
 ## EXPERIENCE
-CEO, **법화경(法 華)**, October 2023 -
+CEO, **Lotus sutra(法 華)**, October 2023 -
 * Under construction
 
 Developer, **Telecons**, August 2016 - June 2017
