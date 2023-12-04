@@ -1,17 +1,13 @@
 **<p align="center">박 인규** &nbsp; </p>
 **<p align="center">incue.park@gmail.com</p>**
-***
 
 ## TECHNICAL SKILLS
 * Languages: &nbsp; C#
 * Frameworks: Qt
 
 ## EXPERIENCE
-
-
-
-
-
+CEO, *법화경(法 華)**, October 2023 -
+* Under construction
 
 Developer, **Telecons**, August 2016 - June 2017
 * Developed prototype navigation of ㅇㅈE using Qt and NavKit SDK 
