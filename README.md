@@ -10,6 +10,9 @@
 CEO, **Lotus sutra(法 華)**, October 2023 -
 * Under construction
 
+Developer, **Wish Information Technology**, June 2021 - March 2022
+* Wrote KB Kookmin Bank's codes using Java, 1 in 1
+ 
 Developer, **Telecons**, August 2016 - June 2017
 * Developed prototype navigation of LGE using Qt and NavKit SDK, 1 in 100 or more
 
