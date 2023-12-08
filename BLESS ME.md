@@ -7,7 +7,7 @@
 * Frameworks: Qt 等
 
 ## EXPERIENCE
-CEO, **Lotus sutra(法 華)**, October 2023 -
+C EO, **Lotus sutra(法 華)**, October 2023 -
 * Under construction
 
 Developer, **Wish Information Technology**, June 2021 - March 2022
