@@ -2,9 +2,9 @@
 
 **<p align="center">incue.park@gmail.com</p>**
 
-## TECHNICAL SKILLS
-* Languages: &nbsp; C# 等
-* Frameworks: Qt 等
+## Skills a
+* Languages: &nbsp; C#、語無盡
+* Frameworks: Qt
 
 ## EXPERIENCE
 C EO, **Lotus sutra(法 華)**, October 2023 -
