@@ -1,4 +1,4 @@
-**<p align="center">박 인규**
+**<p align="center"> </p>**
 
 **<p align="center">incue.park@gmail.com</p>**
 
