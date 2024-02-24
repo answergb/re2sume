@@ -1,14 +1,13 @@
 **<p align="center"> </p>**
 
-**<p align="center">incue.park@gmail.com</p>**
+**<p align="center">par.kin.cue@gmail.com</p>**
 
 ## Skills 
 * Languages: &nbsp; C、C++、C# 등
 * Frameworks: Qt 등
 
 ## EXPERIENCE
-C EO, **Lotus sutra(法 華)**, October 2023 -
-* Under construction
+Developer, **法 華**, October 2023 - December 2023
 
 Developer, **Wish Information Technology**, June 2021 - March 2022
 * Wrote KB Kookmin Bank's ETL codes using Java, 1 in 1
